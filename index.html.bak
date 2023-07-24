@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Insert web page title here</title>
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+    <meta name="generator" content="thesitewizard.com's Layout Wizard 3.0.1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="all" href="styles.css">
+  </head>
+  <body>
+    <div id="tswcontainer">
+      <div id="tswheader">
+        <!-- start of header section: insert your logo, etc, here -->
+        <p>Graham Kirby </p>
+        <p>&nbsp;</p>
+        <!-- end of header section: insert your logo, etc, above this line --> </div>
+      <div id="tswcontent">
+        <div id="tswcontproper">
+          <!-- start of content column: insert your content here -->
+          <h1>interests</h1>
+          <p> -running, biking, listening to music, reading</p>
+          <h1> my town</h1>
+          <p>Newton, MA </p>
+          <p>&nbsp;</p>
+          <!-- end of content column: put your content above this line --> </div>
+      </div>
+      <div id="tswsidecol">
+        <div id="tswsideproper">
+          <!-- start of side column: insert your navigation menu, etc, here -->
+          <p> Placeholder content for the side column: please replace this with
+            your real stuff. </p>
+          <!-- end of side column: put your navigation menu, etc, above this line -->
+        </div>
+      </div>
+      <div style="clear: both;"></div>
+      <div id="tswfooter">
+        <!-- start of footer section: insert your copyright notice, etc, here -->
+        <p> Placeholder content for the footer: please replace these words with
+          your real content. </p>
+        <!-- end of footer section: insert your copyright notice, etc, above this line -->
+      </div>
+    </div>
+  </body>
+</html>
