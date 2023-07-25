@@ -20,7 +20,7 @@ div#tswsidecol {
 	float: right ;
 	width: 20% ;
 	color: #000 ;
-	background-color: #fff ;
+	background-color: #054 ;
 }
 div#tswcontent {
 	float: right ;
@@ -51,10 +51,10 @@ div#tswsideproper, div#tswothersideproper {
 	padding-right: 5px ;
 }
 div#tswheader {
-	color: #000 ;
+	color: #fff ;
 	background-color: #053 ;
 }
 div#tswfooter {
-	color: #000 ;
-	background-color: #052 ;
+	color: #fff ;
+	background-color: #053 ;
 }
