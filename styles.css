@@ -11,7 +11,7 @@ img {
 	height: auto ;
 }
 input, select, button, textarea {
-	max-width: 100% ;
+	max-width: 100% ; 
 }
 meter, progress, output {
 	max-width: 100% ;
@@ -20,7 +20,7 @@ div#tswsidecol {
 	float: right ;
 	width: 20% ;
 	color: #000 ;
-	background-color: #054 ;
+	background-color: #fff ;
 }
 div#tswcontent {
 	float: right ;
