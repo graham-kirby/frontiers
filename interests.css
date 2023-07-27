@@ -1,0 +1,12 @@
+#list {
+    background-color: navajowhite;
+    padding: 20px;
+    border: 5px double rgb(248, 241, 60);
+    border-radius: 5px;
+}
+body {
+    background-color: rgb(228, 208, 177);
+}
+#header {
+    border-left: 3px solid rgb(248, 241, 60);
+}

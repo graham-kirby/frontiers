@@ -26,7 +26,7 @@ div#tswcontent {
 	float: right ;
 	width: 80% ;
 	color: #053 ;
-	background-color: #fff ;
+	background-color: rgb(139, 167, 146) ;
 }
 @media only screen and (max-width: 629px) {
 	div#tswsidecol {
