@@ -92,6 +92,7 @@ function updateScore() {
     scoreboard.innerHTML = `${scoreL} : ${scoreR}`;
 }
 
+
 function levelUp() {
     if (scoreL + scoreR > 4) {
         ball.c = "green";

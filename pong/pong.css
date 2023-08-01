@@ -14,6 +14,8 @@ h1 {
 #scoreboard {
     font-size: 40px;
     font-family: 'Courier New', Courier, monospace;
+    text-shadow: 2px 2px 1px #FADDC6;
+    background-size: 100px
 }
 
 #reset {
