@@ -13,8 +13,8 @@ img {
 input, select, button, textarea {
 	max-width: 100% ; 
 }
-meter, progress, output {
-	max-width: 100% ;
+meter, progress, output { 
+	max-width: 100%;
 }
 div#tswsidecol {
 	float: right ;
@@ -53,6 +53,7 @@ div#tswsideproper, div#tswothersideproper {
 div#tswheader {
 	color: #fff ;
 	background-color: #053 ;
+	box-shadow: 5px 10px aquamarine;
 }
 div#tswfooter {
 	color: #fff ;
