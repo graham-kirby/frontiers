@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": -85.4989,
+        "lat": 37.2609
+    },
+    "weather": [
+        {
+            "id": 781,
+            "main": "tornado",
+            "description": "overcast clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 71.73,
+        "feels_like": 72.45,
+        "temp_min": 71.65,
+        "temp_max": 72.32,
+        "pressure": 1016,
+        "humidity": 82,
+        "sea_level": 1016,
+        "grnd_level": 993
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 9.08,
+        "deg": 230,
+        "gust": 22.08
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1691071533,
+    "sys": {
+        "type": 2,
+        "id": 2083878,
+        "country": "US",
+        "sunrise": 1691059683,
+        "sunset": 1691110095
+    },
+    "timezone": -18000,
+    "id": 4293470,
+    "name": "Greensburg",
+    "cod": 200
+}
